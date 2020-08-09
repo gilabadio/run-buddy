@@ -1,4 +1,4 @@
-# Run Buddy Inc. test test
+# Run Buddy Inc. njewhfewj
 
 
 ## Purpose
@@ -15,4 +15,3 @@ https://gilabadio.github.io/run-buddy/
 Made with ❤️ by G.B. Abadio
 
 ### ©️2019 Run Buddy, Inc
-test test
