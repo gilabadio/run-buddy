@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy 
 
 ## Purpose
 A website that offers fitness training services
@@ -14,4 +14,3 @@ https://gilabadio.github.io/run-buddy/
 Made with ❤️ by G.B. Abadio
 
 ### ©️2019 Run Buddy, Inc
-
